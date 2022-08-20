@@ -2,14 +2,14 @@ alert("soy una gonorrea!!");
 console.log("Saludos desde el mas alla");
 
 
-//var nombre = "Karen";
-//var edad = 30;
+var nombre = "Karen";
+var edad = 30;
 
 
-//alert("Su nombre es: " + nombre + " Su edad es: " + edad)
-//console.log("Su nombre es: "+ nombre + " Su edad es: "  +edad)
+alert("Su nombre es: " + nombre + " Su edad es: " + edad)
+console.log("Su nombre es: "+ nombre + " Su edad es: "  +edad)
 
-/*var nombre = prompt("Escriba su nombre");
+var nombre = prompt("Escriba su nombre");
 var edad = prompt("Por favor digite su edad");
 
 console.log("Su nombre es: " + nombre + " Su edad es: " + edad);
@@ -32,7 +32,7 @@ if (nombre === "karen") {
 
 else {
     console.log("no eres karen, no puedes pasar," + " no se quien eres " + nombre)
-}*/
+}
 
 function evaluarDatos(){
 
